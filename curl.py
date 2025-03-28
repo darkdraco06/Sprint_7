@@ -1,0 +1,6 @@
+MAIN_SITE = 'https://qa-scooter.praktikum-services.ru/'
+LOGIN_COURIER = MAIN_SITE + 'api/v1/courier/login'
+CREATE_COURIER = MAIN_SITE + 'api/v1/courier'
+DELETE_COURIER = MAIN_SITE + 'api/v1/courier/'
+CREATE_ORDER = MAIN_SITE + 'api/v1/orders'
+GET_ORDER = MAIN_SITE + '/api/v1/orders'
