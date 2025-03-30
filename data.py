@@ -11,8 +11,6 @@ ORDER_JSON_NO_COLOR = {
 
 ERROR_MESSEGE_NO_CORRECT_PASSWORD = "Учетная запись не найдена"
 ERROR_MESSEGE_NO_CORRECT_LOGIN = "Учетная запись не найдена"
-ERROR_MESSEGE_NO_LOGIN = "Недостаточно данных для входа"
-ERROR_MESSEGE_NO_PASSWORD = "Недостаточно данных для входа"
-ERROR_MESSEGE_CREATE_COURIER_NO_PASSWORD = "Недостаточно данных для создания учетной записи"
-ERROR_MESSEGE_CREATE_COURIER_NO_LOGIN = "Недостаточно данных для создания учетной записи"
+ERROR_MESSEGE_NO_DATA = "Недостаточно данных для входа"
+ERROR_MESSEGE_CREATE_COURIER_NO_DATA = "Недостаточно данных для создания учетной записи"
 ERROR_MESSEGE_CREATE_COURIER_LOGIN_DUPLICATE = "Этот логин уже используется. Попробуйте другой."

@@ -1,6 +1,3 @@
-import requests
-from utils_methods import UtilsMethods
-import curl
 from api_methods import ApiMethod
 import pytest
 import data
